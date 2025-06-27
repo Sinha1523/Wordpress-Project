@@ -1,0 +1,36 @@
+//http://bdcallinginterviewtask.kesug.com/
+
+Project Brief for bdCalling IT Ltd
+Title: E-Commerce Website Development Using WordPress
+
+Deadline: June 28, 2025, 11:59 PM
+Key Features:
+User Authentication:
+Require login before adding products to the cart.
+Email verification via OTP; only verified emails can log in.
+Product Management:
+Product listing and single product pages.
+Filters by category, Color, Size and price; search by product name.
+Support for product variations
+E-Commerce Pages:
+Cart, Checkout, Payment, and Home pages.
+Integrate SSLCommerz payment gateway.
+Order Management:
+Display ordered products on a separate page.
+Contact:
+The contact form submissions filled out by users should be sent to the email address: mostakim.bdcalling@gmail.com.
+Design:
+Fully responsive, designed with Elementor and Astra Theme.
+Include a Mega Menu for navigation.
+
+
+
+
+Pages:
+Homepage, SignUp, Login, Cart, Checkout, Account, About, Contact, Products Page, Product Details Page
+
+Design Reference:
+Follow the Figma Design: E-Commerce Website UI/UX Design.
+Submission:
+Provide a ZIP file of the project.
+Share the live site link.
